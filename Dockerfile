@@ -1,4 +1,4 @@
-FROM buildkite/puppeteer:latest
+FROM buildkite/puppeteer:5.2.1
 
 ENV LANG ja_JP.UTF-8
 
